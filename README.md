@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Najmul Huda
 
-<!--
-**00najmulhuda/00najmulhuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Full Stack Developer in Progress** • **B.Tech CSE Student (India)**
 
-Here are some ideas to get you started:
+I enjoy building practical software and documenting my learning in public. My current focus is becoming a strong full-stack developer while building real-world projects using modern backend and frontend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+- 📚 AI Full Stack Development Roadmap
+- ☕ Java DSA
+- ⚡ FastAPI & Backend Development
+- 🏗 Building production-style projects
+- 💡 Building MultiTech Lab (AI Digital Agency)
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science student
+- 🌱 Learning by building real projects instead of only watching courses
+- 🔍 Interested in Backend Development, AI Applications and SaaS
+- 🎯 Looking for Internship opportunities
+
+---
