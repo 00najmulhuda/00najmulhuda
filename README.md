@@ -124,3 +124,23 @@ https://github.com/00najmulhuda/java_DSA
   <img src="https://github-readme-stats.vercel.app/api?username=00najmulhuda&show_icons=true&theme=github_dark&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00najmulhuda&layout=compact&theme=github_dark&hide_border=true" height="170" />
 </p>
+
+---
+
+# 📚 Currently Learning
+
+### Backend
+- ✅ FastAPI
+- ✅ SQLModel
+- ✅ PostgreSQL
+- 🔄 JWT Authentication
+- 🔄 Deployment
+
+### Programming
+- ☕ Java DSA (Daily Practice)
+
+### Next Learning Goals
+- React
+- Next.js
+- Docker
+- System Design
