@@ -144,3 +144,16 @@ https://github.com/00najmulhuda/java_DSA
 - Next.js
 - Docker
 - System Design
+
+---
+
+# 📫 Connect With Me
+
+🌐 Portfolio  
+https://najmul-portfolio-five.vercel.app
+
+💼 LinkedIn  
+https://www.linkedin.com/in/najmul-huda-970699309
+
+📧 Email  
+najmulhuda2003@gmail.com
