@@ -12,7 +12,7 @@ I enjoy building practical software and documenting my learning in public. My cu
 - ☕ Java DSA
 - ⚡ FastAPI & Backend Development
 - 🏗 Building production-style projects
-- 💡 Building MultiTech Lab (AI Digital Agency)
+
 
 ---
 
