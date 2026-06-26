@@ -156,4 +156,7 @@ https://najmul-portfolio-five.vercel.app
 https://www.linkedin.com/in/najmul-huda-970699309
 
 📧 Email  
-najmulhuda2003@gmail.com
+ooonajmulhuda@gmail.com
+---
+
+> I believe the best way to learn software engineering is by building real projects, documenting the journey, and continuously improving.
