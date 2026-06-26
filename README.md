@@ -50,3 +50,70 @@ I enjoy building practical software and documenting my learning in public. My cu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 SmartCare HMS
+**Full Stack Hospital Management System**
+
+A hospital management system with authentication, appointment booking, email notifications, and admin dashboard.
+
+**Tech:** HTML • CSS • JavaScript • Node.js • Express • MongoDB
+
+**Highlights**
+- 👨‍⚕️ Patient & Admin Authentication
+- 📅 Appointment Booking
+- 📧 Email Notifications
+- 🎫 Token Generation
+
+🔗 **Repository:** https://github.com/00najmulhuda/SmartCare-HMS-Hospital-management-system-
+
+🌐 **Live Demo:** https://smartcare-hms.netlify.app/
+
+---
+
+## ⚡ FastAPI Learning
+
+My backend learning journey where I build APIs while learning FastAPI.
+
+**Currently Covered**
+- REST APIs
+- CRUD Operations
+- SQLModel
+- PostgreSQL
+- Authentication
+- Relationships
+
+🔗 Repository:
+https://github.com/00najmulhuda/FastAPI-learning
+
+---
+
+## 🌐 Personal Portfolio
+
+My personal portfolio website showcasing my projects and skills.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 Repository:
+https://github.com/00najmulhuda/Najmul-portfolio
+
+🌐 Live:
+https://najmul-portfolio-five.vercel.app/
+
+---
+
+## ☕ Java DSA
+
+Daily Java Data Structures & Algorithms practice.
+
+Current Goal:
+
+- Solve 500+ Problems
+- Build Strong Problem Solving
+- Prepare for Placments & Interviews
+
+🔗 Repository:
+https://github.com/00najmulhuda/java_DSA
